@@ -62,6 +62,17 @@ Vehicle Types
 
 .Prime SUV
 
+📄EXCEL analysis - 20000+ rows data File (OLAexcel.xlsv)
+
+📄 To Insert 20000+ row  Into MYsql - (OLAsql.csv)
+
+📄 INSERT Slides in POWER BI - (ola-Slideshub.pptx)
+
+📄 SQL Queries Script -  (OLAquery.sql)
+
+📄  Power BI Dashboard File - (OLA POWERBI DASHBOARD.pbix)
+
+ 
 
 
 SQL Analysis
@@ -93,13 +104,14 @@ SQL Queries Implemented
 
 
 📄 SQL Queries Script
- ()
+ (OLAquery.sql)
 
  
 
  Power BI Dashboard
 
 The dataset is visualized in Power BI to derive business insights.
+
 
 SLIDES of Power BI Dashboard Views
 
@@ -144,7 +156,7 @@ SLIDE 5- Ratings
 
 
 📄 Power BI Dashboard File
- (add your .pbix file link here in GitHub)
+ (OLA POWERBI DASHBOARD.pbix)
 
  
 
