@@ -24,14 +24,22 @@ Data Columns
 18.Driver_Ratings
 19.Customer_Rating
 
+
 Vehicle Types
-1.Auto
-2.Prime Plus
-3.Prime Sedan
-4.Mini
-5.Bike
-6.eBike
-7.Prime SUV
+
+Auto
+
+Prime Plus
+
+Prime Sedan
+
+Mini
+
+Bike
+
+eBike
+
+Prime SUV
 
 SQL Analysis
 The dataset is stored in MySQL/PostgreSQL for running queries.
