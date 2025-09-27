@@ -3,7 +3,9 @@ This project simulates an OLA Cab Booking System dataset containing 20000+ rows 
 
 The project is implemented using SQL, Excel, and Power BI for data storage, analysis, and visualization
 
+
 Data Columns
+
 1.Date
 
 2.Time
@@ -43,6 +45,7 @@ Data Columns
 19.Customer_Rating
 
 
+
 Vehicle Types
 
 .Auto
@@ -59,10 +62,15 @@ Vehicle Types
 
 .Prime SUV
 
+
+
 SQL Analysis
+
 The dataset is stored in MySQL/PostgreSQL for running queries.
 
+
 SQL Queries Implemented
+
 1.Retrieve all successful bookings
 
 2.Find the average ride distance for each vehicle type
@@ -83,8 +91,11 @@ SQL Queries Implemented
 
 10.List all incomplete rides with reasons
 
+
 📄 SQL Queries Script
  ()
+
+ 
 
  Power BI Dashboard
 
@@ -98,11 +109,13 @@ SLIDE 1- Overall
 
 -Booking Status Breakdown
 
+
 SLIDE 2- Vehicle Type
 
 -Top 5 Vehicle Types by Ride Distance
 
 -Average Customer Ratings by Vehicle Type
+
 
 SLIDE 3- Revenue
 
@@ -119,6 +132,8 @@ SLIDE 4- Cancellations
 
 -Cancelled Rides by Drivers (Reasons)
 
+
+
 SLIDE 5- Ratings
 
 -Driver Ratings Distribution
@@ -127,8 +142,11 @@ SLIDE 5- Ratings
 
 -Customer vs Driver Ratings
 
+
 📄 Power BI Dashboard File
  (add your .pbix file link here in GitHub)
+
+ 
 
 Key Insights:
 
