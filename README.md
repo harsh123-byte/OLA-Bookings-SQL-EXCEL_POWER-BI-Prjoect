@@ -1,7 +1,7 @@
 OLA Data Analytics Project
 This project simulates an OLA Cab Booking System dataset containing 20000+ rows and 19 columns, covering bookings, customers, vehicles, cancellations, payments, and ratings for a 1-month period(JULY) 
 
-The project is implemented using SQL, Excel, and Power BI for data storage, analysis, and visualization.
+The project is implemented using SQL, Excel, and Power BI for data storage, analysis, and visualization
 
 Data Columns
 1.Date
