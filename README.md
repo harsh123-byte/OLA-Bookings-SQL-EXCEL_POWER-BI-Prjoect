@@ -106,8 +106,8 @@ SQL Queries Implemented
 10.List all incomplete rides with reasons
 
 
-📄 SQL Queries Script
- (OLAquery.sql)
+
+ 
 
  
 
@@ -158,8 +158,7 @@ SLIDE 5- Ratings
 -Customer vs Driver Ratings
 
 
-📄 Power BI Dashboard File
- (OLA POWERBI DASHBOARD.pbix)
+
 
  
 
