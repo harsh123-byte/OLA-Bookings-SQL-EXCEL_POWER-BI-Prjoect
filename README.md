@@ -72,6 +72,9 @@ Vehicle Types
 
 📄  Power BI Dashboard File - (OLA DASHBOARD.pbix)
 
+📄 Questions of SQL and POWER BI - (Sql-powerBI Ques-Ans.pdf)
+
+
  
 
 
