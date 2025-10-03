@@ -70,7 +70,7 @@ Vehicle Types
 
 📄 SQL Queries Script -  (OLAquery.sql)
 
-📄  Power BI Dashboard File - (OLA POWERBI DASHBOARD.pbix)
+📄  Power BI Dashboard File - (OLA DASHBOARD.pbix)
 
  
 
